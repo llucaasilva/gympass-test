@@ -1,0 +1,10 @@
+Versão do Python utilizada no desenvolvimento foi a 3.7.1.
+
+No arquivo tests.py podem ser encontrados os unittests.
+O arquivo tests_dicts.py contém os dicionários que os testes esperam receber quando executados.
+O aqruivo race_log.log contém o log da corrida, o mesmo que consta na descrição do desafio.
+O arquivo race_log_test.log contém um log em branco para testar como o script se comportará quando receber um arquivo vazio.
+O arquivo race_log_test_2.log contém um log de uma corrida ainda não terminada, nele nenhum piloto concluiu a 4º volta
+ainda, para testar como o script se comportará quando receber um log de uma corrida inacabada.
+O arquivo gympass.py é o arquivo principal, que contém o script.
+O arquivo output.txt é o arquivo que irá conter os resultados da execução do arquivo gympass.py.
